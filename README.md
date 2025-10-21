@@ -19,7 +19,5 @@ An interactive Power BI dashboard analyzing company sales data to uncover insigh
 Business Intelligence • Data Analytics • KPI Measurement • Dashboard Design • Data Storytelling • Decision Support • Regional Analysis
 
 ## Screenshots
-*(Insert images of your dashboard here)*
+<img width="1117" height="632" alt="image" src="https://github.com/user-attachments/assets/56373a6f-b703-4247-9816-5ae6bd933d52" />
 
-## How to View
-You can view the dashboard via Power BI Desktop using the included `.pbix` file or explore the published report [here](your_powerbi_publish_link).
